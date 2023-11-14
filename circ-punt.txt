@@ -1,1 +1,5 @@
+#Repositorio del Integrador
+[repo] (git@github.com:EmmanuelCR23/INTEGRADORTEST.git)
+
+# Ejercicio 3
 Dada una circunferencia con centro en el punto C con coordenadas (x_1,y_1) y radio r, evaluar si un punto T con coordenadas (x_2,y_2) esta dentro del area de la circunferencia.
