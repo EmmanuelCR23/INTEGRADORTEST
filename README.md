@@ -6,7 +6,9 @@
 
 ## Yael Gonzalez Calva
 
-## Fernando Gonzaga Lopez
+## Luis Fernando Gonzaga Lopez
+
+https://github.com/FerGonzaga
 
 ## Evelin Gomez Angeles
 
