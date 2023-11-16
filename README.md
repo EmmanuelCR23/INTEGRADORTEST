@@ -12,3 +12,4 @@
 
 ## Kevin Ichiro Jarquin Contreras
 
+## Gustavo Lopez Paz
