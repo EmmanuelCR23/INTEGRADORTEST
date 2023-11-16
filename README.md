@@ -11,5 +11,5 @@
 ## Evelin Gomez Angeles
 
 ## Kevin Ichiro Jarquin Contreras
-https://github.com/ichirocontreras
+[github de ichiro](https://github.com/ichirocontreras)
 
