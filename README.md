@@ -8,7 +8,7 @@
 
 ## Luis Fernando Gonzaga Lopez
 
-[GitHub de Fernando] (https://github.com/FerGonzaga)
+[GitHub de Fernando](https://github.com/FerGonzaga)
 
 ## Evelin Gomez Angeles
 
