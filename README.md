@@ -8,8 +8,8 @@
 
 ## Fernando Gonzaga Lopez
 
-## Evelin Gomez Angeles
+## Gustavo Lopez Paz
 
 ## Kevin Ichiro Jarquin Contreras
 
-## Gustavo Lopez Paz
+## Evelin Gomez Angeles
