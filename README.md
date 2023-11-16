@@ -6,7 +6,9 @@
 
 ## Yael Gonzalez Calva
 
-## Fernando Gonzaga Lopez
+## Luis Fernando Gonzaga Lopez
+
+[GitHub de Fernando](https://github.com/FerGonzaga)
 
 ## Gustavo Lopez Paz
 
