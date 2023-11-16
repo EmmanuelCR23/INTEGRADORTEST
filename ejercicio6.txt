@@ -1,0 +1,6 @@
+
+#repositorio del integrador
+
+[repo](git@github.com:EmmanuelCR23/INTEGRADORTEST.git)
+#Ejercicio 6
+dada un tabla de verdad de n bist generar la exxprecion booleana que genere de manera fidedigna la salidas de esta tabla
